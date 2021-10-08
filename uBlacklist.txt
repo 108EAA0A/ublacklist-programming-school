@@ -12,4 +12,5 @@
 *://*.techplay.jp/column/*
 *://*.tsuyopon.xyz/*
 *://*.untrace.co.jp/*
+*://*.watablogtravel.com/*
 *://*.webukatu.com/*
