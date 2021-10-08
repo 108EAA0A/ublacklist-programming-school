@@ -3,6 +3,7 @@
 *://*.kenschool.jp/*
 *://*.pg-happy.jp/*
 *://*.sejuku.net/*
+*://*.softcampus.co.jp/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
 *://*.techplay.jp/column/*
