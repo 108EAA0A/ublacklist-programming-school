@@ -1,5 +1,6 @@
 *://blog.codecamp.jp/*
 *://*.hataworakuni.net/*
+*://*.kenschool.jp/*
 *://*.pg-happy.jp/*
 *://*.sejuku.net/*
 *://*.tech-camp.in/*
