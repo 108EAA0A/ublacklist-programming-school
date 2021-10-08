@@ -1,4 +1,5 @@
 *://blog.codecamp.jp/*
+*://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.kenschool.jp/*
 *://*.pg-happy.jp/*
