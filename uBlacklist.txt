@@ -1,0 +1,6 @@
+*://*.pg-happy.jp/*
+*://*.sejuku.net/*
+*://*.tech-camp.in/*
+*://*.techacademy.jp/*
+*://*.untrace.co.jp/*
+*://*.webukatu.com/*
