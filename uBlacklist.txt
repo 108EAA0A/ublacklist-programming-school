@@ -1,3 +1,4 @@
+*://*.hataworakuni.net/*
 *://*.pg-happy.jp/*
 *://*.sejuku.net/*
 *://*.tech-camp.in/*
