@@ -1,3 +1,4 @@
+*://blog.codecamp.jp/*
 *://*.hataworakuni.net/*
 *://*.pg-happy.jp/*
 *://*.sejuku.net/*
