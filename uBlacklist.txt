@@ -4,5 +4,6 @@
 *://*.sejuku.net/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
+*://*.techplay.jp/column/*
 *://*.untrace.co.jp/*
 *://*.webukatu.com/*
