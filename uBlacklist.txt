@@ -2,6 +2,7 @@
 *://*.hataworakuni.net/*
 *://*.kenschool.jp/*
 *://*.pg-happy.jp/*
+*://*.rabico.dev/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
