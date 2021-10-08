@@ -7,5 +7,6 @@
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
 *://*.techplay.jp/column/*
+*://*.tsuyopon.xyz/*
 *://*.untrace.co.jp/*
 *://*.webukatu.com/*
