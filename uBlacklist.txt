@@ -2,6 +2,7 @@
 *://*.aidemy.net/*
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
+*://*.dividable.net/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
