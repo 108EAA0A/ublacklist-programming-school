@@ -3,6 +3,7 @@
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
 *://*.dividable.net/*
+*://*.engineer-life.dev/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
