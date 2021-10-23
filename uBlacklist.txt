@@ -11,6 +11,7 @@
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
+*://*.studycode.jp/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
 *://*.techplay.jp/column/*
