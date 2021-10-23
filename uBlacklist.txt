@@ -1,3 +1,4 @@
+*://*.aiacademy.jp/media/*
 *://blog.codecamp.jp/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
