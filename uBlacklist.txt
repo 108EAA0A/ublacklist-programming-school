@@ -2,6 +2,7 @@
 *://blog.codecamp.jp/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
+*://*.internetacademy.jp/*
 *://*.kenschool.jp/*
 *://*.pg-happy.jp/*
 *://*.programmercollege.jp/column/*
