@@ -20,6 +20,7 @@
 *://*.studycode.jp/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
+*://*.techgym.jp/*
 *://*.techplay.jp/column/*
 *://*.tsuyopon.xyz/*
 *://*.untrace.co.jp/*
