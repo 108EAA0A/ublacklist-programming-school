@@ -1,5 +1,6 @@
 *://*.aiacademy.jp/*
 *://blog.codecamp.jp/*
+*://*.careerhub.jp/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
