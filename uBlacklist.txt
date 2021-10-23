@@ -8,6 +8,7 @@
 *://*.kredo.jp/*
 *://*.pg-happy.jp/*
 *://*.programmercollege.jp/column/*
+*://*.programming-school-hikaku.jp/*
 *://*.rabico.dev/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
