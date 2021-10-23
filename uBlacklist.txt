@@ -4,6 +4,7 @@
 *://*.hataworakuni.net/*
 *://*.internetacademy.jp/*
 *://*.kenschool.jp/*
+*://*.kredo.jp/*
 *://*.pg-happy.jp/*
 *://*.programmercollege.jp/column/*
 *://*.rabico.dev/*
