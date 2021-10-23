@@ -1,4 +1,5 @@
 *://*.aiacademy.jp/*
+*://*.aidemy.net/*
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
 *://*.futabazemi.net/*
