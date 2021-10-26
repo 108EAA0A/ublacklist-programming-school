@@ -18,6 +18,7 @@
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
+*://*.horoyoinoblog.com/*
 *://*.iikabu.com/*
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
