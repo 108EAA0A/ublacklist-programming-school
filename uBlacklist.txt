@@ -2,6 +2,7 @@
 *://*.aidemy.net/*
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
+*://*.coeteco.jp/*
 *://*.dividable.net/*
 *://*.engineer-life.dev/*
 *://*.futabazemi.net/*
