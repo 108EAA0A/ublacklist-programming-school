@@ -20,6 +20,7 @@
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
+*://*.homeworkers.jp/*
 *://*.horoyoinoblog.com/*
 *://*.iikabu.com/*
 *://*.ijicllp.com/*
