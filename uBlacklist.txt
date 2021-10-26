@@ -24,6 +24,7 @@
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
 *://*.prograchannel.com/*
+*://*.program-yarouyo.com/*
 *://*.programfromscratch.com/*
 *://*.programingsaikou.com/*
 *://*.programmercollege.jp/column/*
