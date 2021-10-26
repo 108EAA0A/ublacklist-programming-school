@@ -12,6 +12,7 @@
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
+*://*.iikabu.com/*
 *://*.internetacademy.jp/*
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
