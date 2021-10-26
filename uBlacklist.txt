@@ -9,6 +9,7 @@
 *://*.careerhub.jp/*
 *://*.coeteco.jp/*
 *://*.creive.me/*
+*://*.cuebic.co.jp/your_select/programming/*
 *://*.cuvno.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
