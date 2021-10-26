@@ -11,6 +11,7 @@
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
 *://*.engineer-life.dev/*
+*://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
