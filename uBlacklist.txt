@@ -32,6 +32,7 @@
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
 *://*.ited.tech/*
+*://*.kaigaihanno.com/*
 *://*.kenschool.jp/*
 *://*.kitsune.blog/*
 *://*.kredo.jp/*
