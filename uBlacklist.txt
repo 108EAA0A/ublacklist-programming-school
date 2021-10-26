@@ -30,3 +30,4 @@
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
 *://*.webukatu.com/*
+*://*.yokoyamadesuga.com/*
