@@ -24,6 +24,7 @@
 *://*.programming-school-hikaku.jp/*
 *://*.programming-study.com/*
 *://*.rabico.dev/*
+*://*.sakai-kojiblog.com/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
