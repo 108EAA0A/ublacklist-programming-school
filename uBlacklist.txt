@@ -21,6 +21,7 @@
 *://*.iikabu.com/*
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
+*://*.ited.tech/*
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
