@@ -28,6 +28,7 @@
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
 *://*.maesukeblog.com/*
+*://*.markup-media.com/programming/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
 *://*.pg-happy.jp/*
