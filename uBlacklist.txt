@@ -20,6 +20,7 @@
 *://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
 *://*.futabazemi.net/*
+*://*.happy-media24.com/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
 *://*.homeworkers.jp/*
