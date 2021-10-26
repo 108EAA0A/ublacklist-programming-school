@@ -3,6 +3,7 @@
 *://*.aoiroadame.com/*
 *://be.tech-boost.jp/*
 *://blog.codecamp.jp/*
+*://camp.i-standard.jp/*
 *://*.careerhub.jp/*
 *://*.coeteco.jp/*
 *://*.cuvno.com/*
