@@ -1,6 +1,7 @@
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
 *://*.aoiroadame.com/*
+*://*.asosori.com/*
 *://be.tech-boost.jp/*
 *://blog.codecamp.jp/*
 *://camp.geekjob.jp/*
