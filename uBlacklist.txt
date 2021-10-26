@@ -1,3 +1,4 @@
+*://*.0yenschool.com/*
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
 *://*.aoiroadame.com/*
