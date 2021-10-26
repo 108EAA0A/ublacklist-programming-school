@@ -22,6 +22,7 @@
 *://*.hnavi.co.jp/knowledge/*
 *://*.horoyoinoblog.com/*
 *://*.iikabu.com/*
+*://*.ijicllp.com/*
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
 *://*.ited.tech/*
