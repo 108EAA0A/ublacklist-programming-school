@@ -79,6 +79,7 @@
 *://*.wagtechblog.com/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
+*://*.websae.net/*
 *://*.websites-manual.com/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
