@@ -52,6 +52,7 @@
 *://*.programming-school-choice.com/*
 *://*.programming-school-hikaku.jp/*
 *://*.programming-study.com/*
+*://*.programming.tsugelog.com/*
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
 *://*.sakai-kojiblog.com/*
