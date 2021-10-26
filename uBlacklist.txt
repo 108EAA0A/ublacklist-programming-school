@@ -15,6 +15,7 @@
 *://*.internetacademy.jp/*
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
+*://*.nakyublog.com/*
 *://*.pg-happy.jp/*
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
