@@ -21,6 +21,7 @@
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
 *://*.studycode.jp/*
+*://*.syu-katu.net/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
 *://*.techgym.jp/*
