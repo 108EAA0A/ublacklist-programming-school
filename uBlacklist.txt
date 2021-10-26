@@ -17,6 +17,7 @@
 *://*.hnavi.co.jp/knowledge/*
 *://*.iikabu.com/*
 *://*.internetacademy.jp/*
+*://*.it-better-future.com/*
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
