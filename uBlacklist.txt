@@ -21,6 +21,7 @@
 *://*.kredo.jp/*
 *://*.nakyublog.com/*
 *://*.pg-happy.jp/*
+*://*.pg-tensyoku.com/*
 *://*.prograchannel.com/*
 *://*.programfromscratch.com/*
 *://*.programingsaikou.com/*
