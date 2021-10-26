@@ -48,6 +48,7 @@
 *://*.peachphp.com/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
+*://*.plus1-one.co.jp/programming/*
 *://*.proengineer.internous.co.jp/*
 *://*.prograchannel.com/*
 *://*.program-yarouyo.com/*
