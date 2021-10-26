@@ -38,6 +38,7 @@
 *://*.techplay.jp/column/*
 *://*.tensyokuknowhow.com/*
 *://*.tsuyopon.xyz/*
+*://*.usconsort.com/*
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
 *://*.webukatu.com/*
