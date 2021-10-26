@@ -19,6 +19,7 @@
 *://*.nakyublog.com/*
 *://*.pg-happy.jp/*
 *://*.prograchannel.com/*
+*://*.programfromscratch.com/*
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
 *://*.programming-media.org/*
