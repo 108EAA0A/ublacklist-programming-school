@@ -82,7 +82,9 @@
 *://*.websites-manual.com/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
+*://*.xn--pckba0b4jybydual7d8e.net/*
 *://*.xn--pckba0b4jybydual7d8ew127fquxd.com/*
 *://*.yokoyamadesuga.com/*
 *://*.zero-school.com/*
+*://*.プログラミングスクール.net/*
 *://*.プログラミングスクール比較.com/*
