@@ -20,6 +20,7 @@
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
+*://*.lightdarkandshadow.com/*
 *://*.nakyublog.com/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
