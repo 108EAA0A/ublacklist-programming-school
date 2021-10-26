@@ -8,6 +8,7 @@
 *://camp.geekjob.jp/*
 *://camp.i-standard.jp/*
 *://*.careerhub.jp/*
+*://*.codelearn.jp/*
 *://*.coeteco.jp/*
 *://*.creive.me/*
 *://*.cuebic.co.jp/your_select/programming/*
