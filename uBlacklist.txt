@@ -31,4 +31,5 @@
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
 *://*.webukatu.com/*
+*://*.winschool.jp/*
 *://*.yokoyamadesuga.com/*
