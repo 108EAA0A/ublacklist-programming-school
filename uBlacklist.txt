@@ -19,6 +19,7 @@
 *://*.internetacademy.jp/*
 *://*.kenschool.jp/*
 *://*.kredo.jp/*
+*://*.kubogen.com/*
 *://*.nakyublog.com/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
