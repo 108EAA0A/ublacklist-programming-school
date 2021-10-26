@@ -5,6 +5,7 @@
 *://*.asosori.com/*
 *://be.tech-boost.jp/*
 *://blog.codecamp.jp/*
+*://*.boxil.jp/mag/*
 *://camp.geekjob.jp/*
 *://camp.i-standard.jp/*
 *://*.careerhub.jp/*
