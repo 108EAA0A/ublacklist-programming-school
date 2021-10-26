@@ -8,6 +8,7 @@
 *://camp.i-standard.jp/*
 *://*.careerhub.jp/*
 *://*.coeteco.jp/*
+*://*.creive.me/*
 *://*.cuvno.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
