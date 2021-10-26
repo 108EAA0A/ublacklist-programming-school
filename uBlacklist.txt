@@ -25,6 +25,7 @@
 *://*.kredo.jp/*
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
+*://*.maesukeblog.com/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
 *://*.pg-happy.jp/*
