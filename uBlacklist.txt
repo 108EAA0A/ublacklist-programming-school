@@ -45,6 +45,7 @@
 *://*.tensyokuknowhow.com/*
 *://*.tsuyopon.xyz/*
 *://*.usconsort.com/*
+*://*.univ-programmer.com/*
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
