@@ -45,6 +45,7 @@
 *://*.usconsort.com/*
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
+*://*.web-camp.io/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
 *://*.yokoyamadesuga.com/*
