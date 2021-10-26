@@ -3,6 +3,7 @@
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
 *://*.coeteco.jp/*
+*://*.cuvno.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
 *://*.engineer-life.dev/*
