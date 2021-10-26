@@ -39,6 +39,7 @@
 *://*.markup-media.com/programming/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
+*://*.peachphp.com/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
 *://*.proengineer.internous.co.jp/*
