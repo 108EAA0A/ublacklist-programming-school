@@ -32,6 +32,7 @@
 *://*.kredo.jp/*
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
+*://*.literacyboxes.com/*
 *://*.maesukeblog.com/*
 *://*.markup-media.com/programming/*
 *://*.nakyublog.com/*
