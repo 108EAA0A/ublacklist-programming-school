@@ -15,6 +15,7 @@
 *://*.kredo.jp/*
 *://*.pg-happy.jp/*
 *://*.programmercollege.jp/column/*
+*://*.programming-life.com/*
 *://*.programming-school-hikaku.jp/*
 *://*.programming-study.com/*
 *://*.rabico.dev/*
