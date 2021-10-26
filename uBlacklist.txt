@@ -47,3 +47,4 @@
 *://*.webukatu.com/*
 *://*.winschool.jp/*
 *://*.yokoyamadesuga.com/*
+*://*.zero-school.com/*
