@@ -43,6 +43,7 @@
 *://*.maesukeblog.com/*
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
+*://*.memorandumrail.com/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
 *://*.peachphp.com/*
