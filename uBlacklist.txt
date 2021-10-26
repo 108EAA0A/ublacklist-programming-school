@@ -24,6 +24,7 @@
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
+*://*.hobby23.net/*
 *://*.homeworkers.jp/*
 *://*.horoyoinoblog.com/*
 *://*.iikabu.com/*
