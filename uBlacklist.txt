@@ -59,6 +59,7 @@
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
 *://*.sakai-kojiblog.com/*
+*://*.sakaiyutarou.com/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
