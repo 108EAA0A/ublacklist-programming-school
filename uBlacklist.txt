@@ -53,6 +53,7 @@
 *://*.untrace.co.jp/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
+*://*.websites-manual.com/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
 *://*.yokoyamadesuga.com/*
