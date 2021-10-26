@@ -62,6 +62,7 @@
 *://*.rabico.dev/*
 *://*.sakai-kojiblog.com/*
 *://*.sakaiyutarou.com/*
+*://*.sakuratube.org/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.softcampus.co.jp/*
