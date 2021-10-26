@@ -6,6 +6,7 @@
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
 *://*.engineer-life.dev/*
+*://*.exidea.co.jp/blog/*
 *://*.futabazemi.net/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
