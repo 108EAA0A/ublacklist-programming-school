@@ -24,6 +24,7 @@
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
 *://*.nakyublog.com/*
+*://*.nomadworker.tokyo/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
 *://*.prograchannel.com/*
