@@ -46,6 +46,7 @@
 *://*.program-yarouyo.com/*
 *://*.programfromscratch.com/*
 *://*.programingsaikou.com/*
+*://*.programmer-japan.com/*
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
 *://*.programming-media.org/*
