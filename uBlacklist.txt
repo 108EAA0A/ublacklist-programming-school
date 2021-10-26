@@ -33,6 +33,7 @@
 *://*.it-better-future.com/*
 *://*.ited.tech/*
 *://*.kaigaihanno.com/*
+*://*.katalife.com/*
 *://*.kenschool.jp/*
 *://*.kitsune.blog/*
 *://*.kredo.jp/*
