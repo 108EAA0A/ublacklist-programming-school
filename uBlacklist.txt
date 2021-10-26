@@ -1,5 +1,6 @@
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
+*://be.tech-boost.jp/*
 *://blog.codecamp.jp/*
 *://*.careerhub.jp/*
 *://*.coeteco.jp/*
