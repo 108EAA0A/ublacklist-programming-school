@@ -41,6 +41,7 @@
 *://*.nomadworker.tokyo/*
 *://*.pg-happy.jp/*
 *://*.pg-tensyoku.com/*
+*://*.proengineer.internous.co.jp/*
 *://*.prograchannel.com/*
 *://*.program-yarouyo.com/*
 *://*.programfromscratch.com/*
