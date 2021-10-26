@@ -51,6 +51,7 @@
 *://*.softcampus.co.jp/*
 *://*.studycode.jp/*
 *://*.syu-katu.net/*
+*://*.tawasimusi.com/*
 *://*.tech-camp.in/*
 *://*.techacademy.jp/*
 *://*.techgym.jp/*
