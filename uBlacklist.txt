@@ -56,6 +56,7 @@
 *://*.usconsort.com/*
 *://*.univ-programmer.com/*
 *://*.untrace.co.jp/*
+*://*.wagtechblog.com/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
 *://*.websites-manual.com/*
