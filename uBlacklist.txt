@@ -20,6 +20,7 @@
 *://*.pg-happy.jp/*
 *://*.prograchannel.com/*
 *://*.programfromscratch.com/*
+*://*.programingsaikou.com/*
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
 *://*.programming-media.org/*
