@@ -1,6 +1,7 @@
 *://*.0yenschool.com/*
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
+*://*.alchemist7.com/*
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
 *://be.tech-boost.jp/*
