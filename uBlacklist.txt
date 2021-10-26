@@ -43,6 +43,7 @@
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
 *://*.programming-media.org/*
+*://*.programming-school-choice.com/*
 *://*.programming-school-hikaku.jp/*
 *://*.programming-study.com/*
 *://*.rabico.dev/*
