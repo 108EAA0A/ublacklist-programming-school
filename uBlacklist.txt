@@ -24,6 +24,7 @@
 *://*.engineer-life.dev/*
 *://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
+*://*.for-engineer.life/*
 *://*.futabazemi.net/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
