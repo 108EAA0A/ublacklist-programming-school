@@ -65,6 +65,7 @@
 *://*.pg-happy.jp/*
 *://*.pg-job.net/*
 *://*.pg-tensyoku.com/*
+*://*.piroseblog.com/*
 *://*.plus1-one.co.jp/programming/*
 *://*.proengineer.internous.co.jp/*
 *://*.proggy.jp/*
