@@ -76,6 +76,7 @@
 *://*.pg-tensyoku.com/*
 *://*.piroseblog.com/*
 *://*.plus1-one.co.jp/programming/*
+*://*.pro-academy.tech/*
 *://*.proengineer.internous.co.jp/*
 *://*.proggy.jp/*
 *://*.prograchannel.com/*
