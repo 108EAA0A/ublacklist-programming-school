@@ -61,6 +61,7 @@
 *://*.mirai-tc.com/*
 *://*.modis.jp/staffing/insight/*
 *://*.nakyublog.com/*
+*://*.nobuo-create.net/*
 *://*.nomadworker.tokyo/*
 *://*.pasonatech.co.jp/workstyle/column/*
 *://*.peachphp.com/*
