@@ -138,6 +138,7 @@
 *://*.wagtechblog.com/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
+*://*.web-director-lifehack.info/*
 *://*.web-knowledge-info.com/*
 *://*.websae.net/*
 *://*.websites-manual.com/*
