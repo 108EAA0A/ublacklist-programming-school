@@ -17,6 +17,7 @@
 *://*.creive.me/*
 *://*.cuebic.co.jp/your_select/programming/*
 *://*.cuvno.com/*
+*://*.daily-trial.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
 *://*.eng-entrance.com/*
