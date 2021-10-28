@@ -4,6 +4,7 @@
 *://*.alchemist7.com/*
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
+*://*.axxis.co.jp/magazine/*
 *://be.tech-boost.jp/*
 *://*.become-programmer.com/*
 *://blog.codecamp.jp/*
