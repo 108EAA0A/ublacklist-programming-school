@@ -61,6 +61,7 @@
 *://*.pg-tensyoku.com/*
 *://*.plus1-one.co.jp/programming/*
 *://*.proengineer.internous.co.jp/*
+*://*.proggy.jp/*
 *://*.prograchannel.com/*
 *://*.program-yarouyo.com/*
 *://*.programfromscratch.com/*
