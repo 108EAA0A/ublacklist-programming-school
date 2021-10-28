@@ -7,6 +7,7 @@
 *://*.axxis.co.jp/magazine/*
 *://be.tech-boost.jp/*
 *://*.become-programmer.com/*
+*://*.beginner-engineer.net/*
 *://blog.codecamp.jp/*
 *://*.boxil.jp/mag/*
 *://*.buntadayo.com/*
