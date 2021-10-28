@@ -5,6 +5,7 @@
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
 *://be.tech-boost.jp/*
+*://*.become-programmer.com/*
 *://blog.codecamp.jp/*
 *://*.boxil.jp/mag/*
 *://camp.geekjob.jp/*
