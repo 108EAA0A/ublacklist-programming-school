@@ -81,6 +81,7 @@
 *://*.sejuku.net/*
 *://*.skill-hacks.co.jp/*
 *://*.softcampus.co.jp/*
+*://*.sougyouschool.jp/programming/*
 *://*.start-programming.com/*
 *://*.studycode.jp/*
 *://*.syu-katu.net/*
