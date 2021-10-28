@@ -96,6 +96,7 @@
 *://*.softcampus.co.jp/*
 *://*.sougyouschool.jp/programming/*
 *://*.start-programming.com/*
+*://*.stepup-engineer.com/*
 *://*.studycode.jp/*
 *://*.style.potepan.com/*
 *://*.syu-katu.net/*
