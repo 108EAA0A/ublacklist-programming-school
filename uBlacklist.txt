@@ -106,6 +106,7 @@
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
 *://*.tensyokuknowhow.com/*
+*://*.tetz-blog.online/*
 *://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
 *://*.usconsort.com/*
