@@ -100,6 +100,7 @@
 *://*.programming-school-hikaku.jp/*
 *://*.programming-school.tech/*
 *://*.programming-study.com/*
+*://*.programming-yell.com/*
 *://*.programming.tsugelog.com/*
 *://*.pronaru.jp/*
 *://*.propoko.com/*
