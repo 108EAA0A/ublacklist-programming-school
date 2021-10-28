@@ -1,4 +1,5 @@
 *://*.0yenschool.com/*
+*://*.358dokari.com/*
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
 *://*.alchemist7.com/*
