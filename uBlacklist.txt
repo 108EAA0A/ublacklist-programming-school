@@ -122,6 +122,7 @@
 *://*.usconsort.com/*
 *://*.univ-programmer.com/*
 *://*.untrace.co.jp/*
+*://*.viva-drone.com/*
 *://*.wagtechblog.com/*
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
