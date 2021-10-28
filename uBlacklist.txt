@@ -44,6 +44,7 @@
 *://*.ijicllp.com/*
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
+*://*.it-career-navi.com/*
 *://*.ited.tech/*
 *://*.itpropartners.com/blog/*
 *://*.kaigaihanno.com/*
