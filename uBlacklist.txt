@@ -51,6 +51,7 @@
 *://*.kredo.jp/*
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
+*://*.liskul.com/*
 *://*.literacyboxes.com/*
 *://*.maesukeblog.com/*
 *://*.maneo.jp/media/*
