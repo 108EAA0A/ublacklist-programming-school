@@ -89,6 +89,7 @@
 *://*.sougyouschool.jp/programming/*
 *://*.start-programming.com/*
 *://*.studycode.jp/*
+*://*.style.potepan.com/*
 *://*.syu-katu.net/*
 *://*.shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
 *://*.tawasimusi.com/*
