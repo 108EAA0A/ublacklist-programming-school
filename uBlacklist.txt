@@ -20,6 +20,7 @@
 *://*.daily-trial.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
+*://*.gadgelog.com/columns/school/*
 *://*.eng-entrance.com/*
 *://*.engineer-life.dev/*
 *://*.engineer-shukatu.jp/*
