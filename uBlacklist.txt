@@ -50,6 +50,7 @@
 *://*.kaigaihanno.com/*
 *://*.katalife.com/*
 *://*.kenschool.jp/*
+*://*.kishikorofreee.com/*
 *://*.kitsune.blog/*
 *://*.kodomomirai.com/*
 *://*.kredo.jp/*
