@@ -102,6 +102,7 @@
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
 *://*.tensyokuknowhow.com/*
+*://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
 *://*.usconsort.com/*
 *://*.univ-programmer.com/*
