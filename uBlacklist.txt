@@ -19,6 +19,7 @@
 *://*.careerhub.jp/*
 *://*.codelearn.jp/*
 *://*.coeteco.jp/*
+*://*.corporate-labo.com/*
 *://*.creive.me/*
 *://*.cuebic.co.jp/your_select/programming/*
 *://*.cuvno.com/*
