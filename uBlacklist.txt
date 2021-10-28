@@ -34,6 +34,7 @@
 *://*.exidea.co.jp/blog/*
 *://*.flutternyumon.com/*
 *://*.for-engineer.life/*
+*://*.freelance-start.com/articles/*
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
 *://haa.athuman.com/*
