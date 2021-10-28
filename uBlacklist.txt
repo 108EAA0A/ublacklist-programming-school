@@ -77,6 +77,7 @@
 *://*.sakuratube.org/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
+*://*.skill-hacks.co.jp/*
 *://*.softcampus.co.jp/*
 *://*.start-programming.com/*
 *://*.studycode.jp/*
