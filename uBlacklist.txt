@@ -55,6 +55,7 @@
 *://*.maneo.jp/media/*
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
+*://*.mediafox.jp/*
 *://*.memorandumrail.com/*
 *://*.mirai-tc.com/*
 *://*.modis.jp/staffing/insight/*
