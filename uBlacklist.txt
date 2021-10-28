@@ -1,3 +1,4 @@
+title/(プログラミング|オンライン|エンジニア)+\s*(スクール|教室|講座)/
 *://*.0yenschool.com/*
 *://*.358dokari.com/*
 *://*.aiacademy.jp/*
