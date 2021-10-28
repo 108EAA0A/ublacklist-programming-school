@@ -32,6 +32,7 @@
 *://*.engineer-life.dev/*
 *://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
+*://*.flutternyumon.com/*
 *://*.for-engineer.life/*
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
