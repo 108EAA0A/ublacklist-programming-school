@@ -78,6 +78,7 @@
 *://*.netvisionacademy.com/*
 *://*.nobuo-create.net/*
 *://*.nomadworker.tokyo/*
+*://osusume.jmty.jp/*
 *://*.pasonatech.co.jp/workstyle/column/*
 *://*.peachphp.com/*
 *://*.peraichi.com/univ/*
