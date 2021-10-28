@@ -65,6 +65,7 @@
 *://*.nomadworker.tokyo/*
 *://*.pasonatech.co.jp/workstyle/column/*
 *://*.peachphp.com/*
+*://*.peraichi.com/univ/*
 *://*.pg-happy.jp/*
 *://*.pg-job.net/*
 *://*.pg-tensyoku.com/*
