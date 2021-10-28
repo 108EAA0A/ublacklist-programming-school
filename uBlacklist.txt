@@ -17,6 +17,7 @@
 *://camp.geekjob.jp/*
 *://camp.i-standard.jp/*
 *://*.careerhub.jp/*
+*://*.codelabsjp.net/*
 *://*.codelearn.jp/*
 *://*.coeteco.jp/*
 *://*.corporate-labo.com/*
