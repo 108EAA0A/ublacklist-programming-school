@@ -34,6 +34,7 @@
 *://*.internetacademy.jp/*
 *://*.it-better-future.com/*
 *://*.ited.tech/*
+*://*.itpropartners.com/blog/*
 *://*.kaigaihanno.com/*
 *://*.katalife.com/*
 *://*.kenschool.jp/*
