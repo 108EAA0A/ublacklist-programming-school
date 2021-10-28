@@ -53,6 +53,7 @@
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
 *://*.memorandumrail.com/*
+*://*.mirai-tc.com/*
 *://*.modis.jp/staffing/insight/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
