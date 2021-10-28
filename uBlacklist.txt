@@ -131,6 +131,7 @@
 *://*.tenshoku-stories.com/*
 *://*.tensyokuknowhow.com/*
 *://*.tetz-blog.online/*
+*://*.thikashi-blog.com/*
 *://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
 *://*.usconsort.com/*
