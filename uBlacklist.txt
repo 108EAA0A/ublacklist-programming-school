@@ -114,6 +114,7 @@
 *://*.sakuratube.org/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
+*://*.shibamasa26.com/*
 *://*.skill-hacks.co.jp/*
 *://*.softcampus.co.jp/*
 *://*.sougyouschool.jp/programming/*
