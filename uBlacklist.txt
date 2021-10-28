@@ -35,6 +35,7 @@
 *://*.gravesrecords.com/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
+*://*.hikopro.com/*
 *://*.hnavi.co.jp/knowledge/*
 *://*.hobby23.net/*
 *://*.homeworkers.jp/*
