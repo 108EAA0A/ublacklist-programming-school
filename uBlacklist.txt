@@ -31,6 +31,7 @@
 *://*.exidea.co.jp/blog/*
 *://*.for-engineer.life/*
 *://*.futabazemi.net/*
+*://*.gravesrecords.com/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
 *://*.hnavi.co.jp/knowledge/*
