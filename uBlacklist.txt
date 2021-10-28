@@ -9,6 +9,7 @@
 *://*.become-programmer.com/*
 *://blog.codecamp.jp/*
 *://*.boxil.jp/mag/*
+*://*.buntadayo.com/*
 *://camp.geekjob.jp/*
 *://camp.i-standard.jp/*
 *://*.careerhub.jp/*
