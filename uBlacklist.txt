@@ -152,6 +152,7 @@
 *://*.websites-manual.com/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
+*://*.workstyle-cafe.com/*
 *://*.xn--pckba0b4jybydual7d8e.net/*
 *://*.xn--pckba0b4jybydual7d8ew127fquxd.com/*
 *://*.yokoyamadesuga.com/*
