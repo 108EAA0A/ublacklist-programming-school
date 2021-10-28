@@ -35,6 +35,7 @@
 *://*.for-engineer.life/*
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
+*://haa.athuman.com/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
 *://*.hikopro.com/*
