@@ -37,6 +37,7 @@
 *://*.hobby23.net/*
 *://*.homeworkers.jp/*
 *://*.horoyoinoblog.com/*
+*://i.codehack.jp/*
 *://*.iikabu.com/*
 *://*.ijicllp.com/*
 *://*.internetacademy.jp/*
