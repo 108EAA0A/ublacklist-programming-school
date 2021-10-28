@@ -3,6 +3,7 @@
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
 *://*.alchemist7.com/*
+*://*.allschool-navi.com/*
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
 *://*.axxis.co.jp/magazine/*
