@@ -48,6 +48,7 @@
 *://*.lightdarkandshadow.com/*
 *://*.literacyboxes.com/*
 *://*.maesukeblog.com/*
+*://*.maneo.jp/media/*
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
 *://*.memorandumrail.com/*
