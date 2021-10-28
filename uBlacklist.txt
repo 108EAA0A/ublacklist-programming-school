@@ -89,6 +89,7 @@
 *://*.programming-school-hikaku.jp/*
 *://*.programming-study.com/*
 *://*.programming.tsugelog.com/*
+*://*.pronaru.jp/*
 *://*.propoko.com/*
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
