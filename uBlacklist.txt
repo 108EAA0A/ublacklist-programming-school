@@ -62,6 +62,7 @@
 *://*.kodomomirai.com/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
+*://*.ledge.ai/*
 *://*.lightdarkandshadow.com/*
 *://*.liskul.com/*
 *://*.literacyboxes.com/*
