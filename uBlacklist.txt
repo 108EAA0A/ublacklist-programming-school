@@ -19,6 +19,7 @@
 *://*.cuvno.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
+*://*.eng-entrance.com/*
 *://*.engineer-life.dev/*
 *://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
