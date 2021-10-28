@@ -66,6 +66,7 @@
 *://*.memorandumrail.com/*
 *://*.mirai-tc.com/*
 *://*.modis.jp/staffing/insight/*
+*://*.myfrankblog.com/*
 *://*.nakyublog.com/*
 *://*.nobuo-create.net/*
 *://*.nomadworker.tokyo/*
