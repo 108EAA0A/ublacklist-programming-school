@@ -94,6 +94,7 @@
 *://*.programming-media.org/*
 *://*.programming-school-choice.com/*
 *://*.programming-school-hikaku.jp/*
+*://*.programming-school.tech/*
 *://*.programming-study.com/*
 *://*.programming.tsugelog.com/*
 *://*.pronaru.jp/*
