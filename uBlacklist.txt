@@ -139,6 +139,7 @@
 *://*.xn--pckba0b4jybydual7d8e.net/*
 *://*.xn--pckba0b4jybydual7d8ew127fquxd.com/*
 *://*.yokoyamadesuga.com/*
+*://*.yuyasakamoto.com/*
 *://*.zero-school.com/*
 *://*.プログラミングスクール.net/*
 *://*.プログラミングスクール比較.com/*
