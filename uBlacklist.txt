@@ -55,6 +55,7 @@
 *://*.modis.jp/staffing/insight/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
+*://*.pasonatech.co.jp/workstyle/column/*
 *://*.peachphp.com/*
 *://*.pg-happy.jp/*
 *://*.pg-job.net/*
