@@ -62,6 +62,7 @@
 *://*.liskul.com/*
 *://*.literacyboxes.com/*
 *://*.maesukeblog.com/*
+*://*.manabiya-sakura.com/*
 *://*.maneo.jp/media/*
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
