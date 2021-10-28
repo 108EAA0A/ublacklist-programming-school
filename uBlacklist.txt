@@ -46,6 +46,7 @@
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
 *://*.memorandumrail.com/*
+*://*.modis.jp/staffing/insight/*
 *://*.nakyublog.com/*
 *://*.nomadworker.tokyo/*
 *://*.peachphp.com/*
