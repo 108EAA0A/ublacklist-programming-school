@@ -75,6 +75,7 @@
 *://*.modis.jp/staffing/insight/*
 *://*.myfrankblog.com/*
 *://*.nakyublog.com/*
+*://*.netvisionacademy.com/*
 *://*.nobuo-create.net/*
 *://*.nomadworker.tokyo/*
 *://*.pasonatech.co.jp/workstyle/column/*
