@@ -89,6 +89,7 @@
 *://*.propoko.com/*
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
+*://*.rbbtoday.com/webcode/*
 *://*.sakai-kojiblog.com/*
 *://*.sakaiyutarou.com/*
 *://*.sakurasaku-labo.jp/*
