@@ -90,6 +90,7 @@
 *://*.rabico.dev/*
 *://*.sakai-kojiblog.com/*
 *://*.sakaiyutarou.com/*
+*://*.sakurasaku-labo.jp/*
 *://*.sakuratube.org/*
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
