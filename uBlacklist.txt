@@ -37,6 +37,7 @@
 *://*.katalife.com/*
 *://*.kenschool.jp/*
 *://*.kitsune.blog/*
+*://*.kodomomirai.com/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
 *://*.lightdarkandshadow.com/*
