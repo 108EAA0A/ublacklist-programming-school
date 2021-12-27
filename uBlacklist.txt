@@ -135,6 +135,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.techacademy.jp/*
 *://*.techcari.com/*
 *://*.techgym.jp/*
+*://techgym.thebase.in/*
 *://*.techplay.jp/column/*
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
