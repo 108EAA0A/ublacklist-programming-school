@@ -57,6 +57,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.itpropartners.com/blog/*
 *://*.kaigaihanno.com/*
 *://*.katalife.com/*
+*://*.katsuhiroblog.com/*
 *://*.kenschool.jp/*
 *://*.kishikorofreee.com/*
 *://*.kitsune.blog/*
