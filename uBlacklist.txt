@@ -104,6 +104,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.programmercollege.jp/column/*
 *://*.programming-life.com/*
 *://*.programming-media.org/*
+*://*.programming-quest.net/*
 *://*.programming-school-choice.com/*
 *://*.programming-school-hikaku.jp/*
 *://*.programming-school.tech/*
