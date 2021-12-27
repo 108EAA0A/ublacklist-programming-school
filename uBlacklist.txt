@@ -134,6 +134,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tamasoft.co.jp/column/programming/*
 *://*.tawasimusi.com/*
 *://*.tech-camp.in/*
+*://*.tech-hub.love/*
 *://*.tech-teacher.jp/*
 *://*.techacademy.jp/*
 *://*.techcari.com/*
