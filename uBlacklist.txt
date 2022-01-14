@@ -55,6 +55,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.it-career-navi.com/*
 *://*.ited.tech/*
 *://*.itpropartners.com/blog/*
+*://*.job-support.ne.jp/*
 *://*.kaigaihanno.com/*
 *://*.katalife.com/*
 *://*.katsuhiroblog.com/*
