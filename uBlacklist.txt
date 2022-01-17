@@ -77,6 +77,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.markup-media.com/programming/*
 *://*.mediafox.jp/*
 *://*.memorandumrail.com/*
+*://*.mid-works.com/columns/*
 *://*.mirai-tc.com/*
 *://*.modis.jp/staffing/insight/*
 *://*.mokiblog.work/*
