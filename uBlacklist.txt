@@ -167,6 +167,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.websites-manual.com/*
 *://*.webukatu.com/*
 *://*.winschool.jp/*
+*://*.works.forward-soft.co.jp/blog/*
 *://*.workstyle-cafe.com/*
 *://*.xn--pckba0b4jybydual7d8e.net/*
 *://*.xn--pckba0b4jybydual7d8ew127fquxd.com/*
