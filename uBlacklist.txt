@@ -129,6 +129,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.sejuku.net/*
 *://*.shibamasa26.com/*
 *://*.skill-hacks.co.jp/*
+*://*.shimapuku.com/*
 *://*.softcampus.co.jp/*
 *://*.sougyouschool.jp/programming/*
 *://*.start-programming.com/*
