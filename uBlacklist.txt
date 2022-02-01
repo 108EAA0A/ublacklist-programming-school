@@ -12,6 +12,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://be.tech-boost.jp/*
 *://*.become-programmer.com/*
 *://*.beginner-engineer.net/*
+*://*.benefit.fnetin.com/*
 *://*.blog-and-destroy.com/*
 *://*.blog.codecamp.jp/*
 *://*.bold.ne.jp/engineer-club/*
