@@ -154,6 +154,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tensyokuknowhow.com/*
 *://*.tetz-blog.online/*
 *://*.thikashi-blog.com/*
+*://*.tokitsubaki.com/*
 *://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
 *://*.usconsort.com/*
