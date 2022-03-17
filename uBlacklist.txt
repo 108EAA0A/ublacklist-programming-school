@@ -6,6 +6,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.aki-bunkei.com/*
 *://*.alchemist7.com/*
 *://*.allschool-navi.com/*
+*://*.and-engineer.com/*
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
 *://*.axxis.co.jp/magazine/*
