@@ -41,6 +41,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.fenet.jp/*/column/*
 *://*.flutternyumon.com/*
 *://*.for-engineer.life/*
+*://*.free-engineer.life/*
 *://*.freelance-start.com/articles/*
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
