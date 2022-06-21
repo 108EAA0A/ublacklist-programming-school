@@ -80,6 +80,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.literacyboxes.com/*
 *://*.maesukeblog.com/*
 *://*.manabiya-sakura.com/*
+*://*.manablog.org/*
 *://*.maneo.jp/media/*
 *://*.marbou-work.com/*
 *://*.marketer.jp/*
