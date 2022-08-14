@@ -133,6 +133,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
 *://*.rbbtoday.com/webcode/*
+*://*.resanaplaza.com/*
 *://*.sakai-kojiblog.com/*
 *://*.sakaiyutarou.com/*
 *://*.sakurasaku-labo.jp/*
