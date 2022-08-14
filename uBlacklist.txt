@@ -53,6 +53,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.hobby23.net/*
 *://*.homeworkers.jp/*
 *://*.horoyoinoblog.com/*
+*://*.hoshi-log.com/*
 *://*.hspcareer.jp/*
 *://i.codehack.jp/*
 *://ihayato.medium.com/*
