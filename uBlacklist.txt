@@ -133,6 +133,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.programming-study.com/*
 *://*.programming-yell.com/*
 *://*.programming.tsugelog.com/*
+*://*.programmingo-kids.com/*
 *://*.programmingschool-guide.com/*
 *://*.pronaru.jp/*
 *://*.propoko.com/*
