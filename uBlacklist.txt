@@ -94,6 +94,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.mid-works.com/columns/*
 *://*.mirai-tc.com/*
 *://*.mk-square.com/*
+*://*.mo-la.jp/*
 *://*.modis.jp/staffing/insight/*
 *://*.mokiblog.work/*
 *://*.myfrankblog.com/*
