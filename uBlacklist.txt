@@ -148,6 +148,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.savvycode.dev/*
 *://*.sejuku.net/*
 *://*.shibamasa26.com/*
+*://*.shin-memo.com/*
 *://*.skill-hacks.co.jp/*
 *://*.shimapuku.com/*
 *://*.softcampus.co.jp/*
