@@ -180,6 +180,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tokitsubaki.com/*
 *://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
+*://*.uha-blog.com/*
 *://*.usconsort.com/*
 *://*.univ-programmer.com/*
 *://*.untrace.co.jp/*
