@@ -31,6 +31,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.corporate-labo.com/*
 *://*.creators-factory.com/*
 *://*.creive.me/*
+*://*.cryptocurrency-student.com/*
 *://*.cuebic.co.jp/your_select/programming/*
 *://*.cuvno.com/*
 *://*.daeudaeu.com/*
