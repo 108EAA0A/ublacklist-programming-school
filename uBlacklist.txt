@@ -91,6 +91,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
 *://*.mediafox.jp/*
+*://*.meister-kentei.jp/magazine/*
 *://*.memorandumrail.com/*
 *://*.mid-works.com/columns/*
 *://*.mirai-tc.com/*
