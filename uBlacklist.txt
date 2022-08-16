@@ -96,6 +96,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.marbou-work.com/*
 *://*.marketer.jp/*
 *://*.markup-media.com/programming/*
+*://*.masa-kun.jp/*
 *://*.mediafox.jp/*
 *://*.meister-kentei.jp/magazine/*
 *://*.memorandumrail.com/*
