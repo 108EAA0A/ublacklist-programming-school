@@ -24,6 +24,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://camp.i-standard.jp/*
 *://camp.trainocate.co.jp/magazine/*
 *://*.careerhub.jp/*
+*://code.ooaks.co.jp/*
 *://*.codelabsjp.net/*
 *://*.codelearn.jp/*
 *://*.coeteco.jp/*
