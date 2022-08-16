@@ -100,6 +100,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.modis.jp/staffing/insight/*
 *://*.mokiblog.work/*
 *://*.myfrankblog.com/*
+*://*.nakanono.com/*
 *://*.nakyublog.com/*
 *://*.netvisionacademy.com/*
 *://*.nobuo-create.net/*
