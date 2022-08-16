@@ -66,6 +66,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.it-better-future.com/*
 *://*.it-career-navi.com/*
 *://*.it-kyujin.jp/article/*
+*://itc.tokyo/*
 *://*.ited.tech/*
 *://*.itpropartners.com/blog/*
 *://*.job-support.ne.jp/*
