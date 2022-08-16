@@ -33,6 +33,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.creive.me/*
 *://*.cuebic.co.jp/your_select/programming/*
 *://*.cuvno.com/*
+*://*.daeudaeu.com/*
 *://*.daily-trial.com/*
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
