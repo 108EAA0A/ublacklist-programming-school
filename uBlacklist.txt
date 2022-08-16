@@ -146,6 +146,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.programmingo-kids.com/*
 *://*.programmingschool-guide.com/*
 *://*.pronaru.jp/*
+*://*.propen.dream-target.jp/*
 *://*.propoko.com/*
 *://*.ps-geek.com/*
 *://*.rabico.dev/*
