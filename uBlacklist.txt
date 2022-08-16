@@ -173,6 +173,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.techgym.jp/*
 *://techgym.thebase.in/*
 /techgym.*?\.connpass.com/
+*://*.techmania.jp/blog/*
 *://*.technolog.jp/*
 *://*.techplay.jp/column/*
 *://*.tenshoku-free.com/*
