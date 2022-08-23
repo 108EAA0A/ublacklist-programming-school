@@ -103,6 +103,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.memorandumrail.com/*
 *://*.mid-works.com/columns/*
 *://*.mirai-tc.com/*
+*://*.miya-mitsu.com/*
 *://*.mk-square.com/*
 *://*.mo-la.jp/*
 *://*.modis.jp/staffing/insight/*
