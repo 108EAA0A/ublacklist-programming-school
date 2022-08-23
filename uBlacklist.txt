@@ -1,7 +1,7 @@
 title/(プログラミング|オンライン|エンジニア)+\s*(スクール|教室|講座)/
 *://*.0yenschool.com/*
 *://*.358dokari.com/*
-*://*.agency-star.co.jp/corporate/column/*
+*://*.agency-star.co.jp/*
 *://*.ai-kenkyujo.com/*
 *://*.aiacademy.jp/*
 *://*.aidemy.net/*
