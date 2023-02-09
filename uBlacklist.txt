@@ -43,6 +43,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.gadgelog.com/columns/school/*
 *://*.eng-entrance.com/*
 *://*.engineer-life.dev/*
+*://*.engineer-ninaritai.com/*
 *://*.engineer-shukatu.jp/*
 *://*.exidea.co.jp/blog/*
 *://*.fenet.jp/*/column/*
