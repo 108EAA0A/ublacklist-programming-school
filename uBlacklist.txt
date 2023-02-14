@@ -110,6 +110,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.mo-la.jp/*
 *://*.modis.jp/staffing/insight/*
 *://*.mokiblog.work/*
+*://ms-engineer.jp/*
 *://*.myfrankblog.com/*
 *://*.nakanono.com/*
 *://*.nakyublog.com/*
