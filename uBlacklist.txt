@@ -50,6 +50,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.exidea.co.jp/blog/*
 *://*.fenet.jp/*/column/*
 *://*.flutternyumon.com/*
+*://*.flxy.jp/media/*
 *://*.for-engineer.life/*
 *://*.free-engineer.life/*
 *://*.freelance-hub.jp/column/*
