@@ -50,6 +50,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.flutternyumon.com/*
 *://*.for-engineer.life/*
 *://*.free-engineer.life/*
+*://*.freelance-hub.jp/column/*
 *://*.freelance-start.com/articles/*
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
