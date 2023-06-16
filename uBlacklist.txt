@@ -62,6 +62,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://haa.athuman.com/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
+*://*.hays.co.jp/*
 *://*.hikopro.com/*
 *://*.hnavi.co.jp/knowledge/*
 *://*.hobby23.net/*
