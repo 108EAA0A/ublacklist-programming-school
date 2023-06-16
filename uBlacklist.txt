@@ -12,6 +12,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.allschool-navi.com/*
 *://*.amela.co.jp/news/*
 *://*.and-engineer.com/*
+*://*.anken-navi.jp/news/*
 *://*.aoiroadame.com/*
 *://*.asosori.com/*
 *://*.axxis.co.jp/magazine/*
