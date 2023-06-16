@@ -133,6 +133,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.netvisionacademy.com/*
 *://*.nobuo-create.net/*
 *://*.nomadworker.tokyo/*
+*://*.offers.jp/media/*
 *://*.online-programmingschool.info/*
 *://osusume.jmty.jp/*
 *://*.pasonatech.co.jp/workstyle/column/*
