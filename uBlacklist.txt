@@ -59,6 +59,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.freelance-hub.jp/column/*
 *://*.freelance-start.com/articles/*
 *://*.futabazemi.net/*
+*://*.geekly.co.jp/column/*
 *://*.gravesrecords.com/*
 *://haa.athuman.com/*
 *://*.hakenreco.com/*
