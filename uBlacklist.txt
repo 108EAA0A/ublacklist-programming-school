@@ -192,6 +192,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tech-teacher.jp/*
 *://tech.hipro-job.jp/*
 *://*.techacademy.jp/*
+*://*.techbiz.com/media/study/*
 *://*.techcari.com/*
 *://*.techgardenschool.com/*
 *://*.techgym.jp/*
