@@ -46,6 +46,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.engineer-life.dev/*
 *://*.engineer-ninaritai.com/*
 *://*.engineer-shukatu.jp/*
+*://*.engineer-style.jp/articles/*
 *://*.exidea.co.jp/blog/*
 *://*.fenet.jp/*/column/*
 *://*.flutternyumon.com/*
