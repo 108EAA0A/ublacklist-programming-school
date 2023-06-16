@@ -199,6 +199,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.techmania.jp/blog/*
 *://*.technolog.jp/*
 *://*.techplay.jp/column/*
+*://*.techvalley.jp/articles/*
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
 *://*.tensyokuknowhow.com/*
