@@ -42,6 +42,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.dividable.net/*
 *://*.gadgelog.com/columns/school/*
 *://*.eng-entrance.com/*
+*://*.engineer-first.net/*
 *://*.engineer-life.dev/*
 *://*.engineer-ninaritai.com/*
 *://*.engineer-shukatu.jp/*
