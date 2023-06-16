@@ -127,6 +127,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.mokiblog.work/*
 *://ms-engineer.jp/*
 *://*.myfrankblog.com/*
+*://*.mynavi-agent.jp/knowledge/it/*
 *://*.nakanono.com/*
 *://*.nakyublog.com/*
 *://*.netvisionacademy.com/*
