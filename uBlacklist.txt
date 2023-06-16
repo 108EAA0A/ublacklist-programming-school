@@ -61,6 +61,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.futabazemi.net/*
 *://*.gravesrecords.com/*
 *://haa.athuman.com/*
+*://*.hakenreco.com/*
 *://*.happy-media24.com/*
 *://*.hataworakuni.net/*
 *://*.hays.co.jp/*
