@@ -216,6 +216,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tsuyopon.xyz/*
 *://*.uha-blog.com/*
 *://*.usconsort.com/*
+*://*.unison-career.com/engineer-media/*
 *://*.univ-programmer.com/*
 *://*.untrace.co.jp/*
 *://*.viva-drone.com/*
