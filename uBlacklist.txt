@@ -226,6 +226,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.winschool.jp/*
 *://*.works.forward-soft.co.jp/blog/*
 *://*.workstyle-cafe.com/*
+*://*.x-hours.com/articles/*
 *://*.xn--pckba0b4jybydual7d8e.net/*
 *://*.xn--pckba0b4jybydual7d8ew127fquxd.com/*
 *://*.yokoyamadesuga.com/*
