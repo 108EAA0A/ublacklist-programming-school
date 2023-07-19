@@ -82,6 +82,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.iikabu.com/*
 *://*.ijicllp.com/*
 *://*.internetacademy.jp/*
+*://*.into-the-program.com/*
 *://*.it-better-future.com/*
 *://*.it-career-navi.com/*
 *://*.it-kyujin.jp/article/*
