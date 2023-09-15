@@ -225,6 +225,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
 *://*.tensyokuknowhow.com/*
+*://*.teto-tech.com/*
 *://*.tetoblog.org/*
 *://*.tetz-blog.online/*
 *://*.thikashi-blog.com/*
