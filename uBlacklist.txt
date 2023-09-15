@@ -49,6 +49,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.engineer-first.net/*
 *://*.engineer-life.dev/*
 *://*.engineer-ninaritai.com/*
+*://*.engineer-route.com/column/*
 *://*.engineer-shukatu.jp/*
 *://*.engineer-style.jp/articles/*
 *://*.exidea.co.jp/blog/*
