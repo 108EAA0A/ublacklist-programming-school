@@ -243,6 +243,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.webukatu.com/*
 *://*.willcloud.jp/knowhow/*
 *://*.winschool.jp/*
+*://*.wk-partners.co.jp/homepage/blog/*
 *://*.works.forward-soft.co.jp/blog/*
 *://*.workstyle-cafe.com/*
 *://*.x-hours.com/articles/*
