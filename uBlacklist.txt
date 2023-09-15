@@ -124,6 +124,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.meister-kentei.jp/magazine/*
 *://*.memorandumrail.com/*
 *://*.mid-works.com/columns/*
+*://*.migisanblog.com/*
 *://*.mirai-tc.com/*
 *://*.miraie-group.jp/sees/article/*
 *://*.miya-mitsu.com/*
