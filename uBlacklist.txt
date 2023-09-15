@@ -188,6 +188,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.shibamasa26.com/*
 *://*.shin-memo.com/*
 *://*.skill-hacks.co.jp/*
+*://*.skilled.yashio-corp.com/media/*
 *://*.shimapuku.com/*
 *://*.softcampus.co.jp/*
 *://*.sojikun.com/*
