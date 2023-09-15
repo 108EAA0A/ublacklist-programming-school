@@ -34,6 +34,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.codelearn.jp/*
 *://*.coeteco.jp/*
 *://*.comblog.net/*
+*://*.corecolors.net/*
 *://*.corporate-labo.com/*
 *://*.creators-factory.com/*
 *://*.creive.me/*
