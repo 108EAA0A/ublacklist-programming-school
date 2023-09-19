@@ -237,6 +237,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tousimaster.com/*
 *://*.travewriter.com/*
 *://*.tsuyopon.xyz/*
+*://*.ueqareer.net/*
 *://*.uha-blog.com/*
 *://*.usconsort.com/*
 *://*.unison-career.com/engineer-media/*
