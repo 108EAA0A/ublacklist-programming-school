@@ -106,6 +106,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.komamen.net/*
 *://*.kredo.jp/*
 *://*.kubogen.com/*
+*://*.last-data.co.jp/*
 *://*.ledge.ai/*
 *://*.levtech.jp/*
 *://*.liberaluni.com/*
