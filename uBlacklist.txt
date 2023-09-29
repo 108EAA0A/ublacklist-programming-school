@@ -207,6 +207,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.softcampus.co.jp/*
 *://*.sojikun.com/*
 *://*.sougyouschool.jp/programming/*
+*://*.stand-4u.com/*
 *://*.start-programming.com/*
 *://*.startlab.jp/*
 *://*.stepup-engineer.com/*
