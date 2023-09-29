@@ -47,6 +47,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.di-v.co.jp/*
 *://*.dividable.net/*
 *://*.dkssksk.com/*
+*://*.dream-html-seminar.com/*
 *://*.gadgelog.com/columns/school/*
 *://*.eng-entrance.com/*
 *://*.engineer-first.net/*
