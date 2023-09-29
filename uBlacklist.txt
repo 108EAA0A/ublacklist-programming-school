@@ -108,6 +108,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.kredo.jp/*
 *://*.kubogen.com/*
 *://*.last-data.co.jp/*
+*://learn.geekjob.jp/*
 *://*.ledge.ai/*
 *://*.levtech.jp/*
 *://*.liberaluni.com/*
