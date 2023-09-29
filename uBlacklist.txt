@@ -201,6 +201,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.shin-memo.com/*
 *://*.skill-hacks.co.jp/*
 *://*.skilled.yashio-corp.com/media/*
+*://*.skillhub.jp/*
 *://*.shimapuku.com/*
 *://*.shogo-log.com/*
 *://*.softcampus.co.jp/*
