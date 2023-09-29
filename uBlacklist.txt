@@ -33,6 +33,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://code.ooaks.co.jp/*
 *://*.codelabsjp.net/*
 *://*.codelearn.jp/*
+*://*.codeprep.jp/*
 *://*.coeteco.jp/*
 *://*.comblog.net/*
 *://*.corecolors.net/*
