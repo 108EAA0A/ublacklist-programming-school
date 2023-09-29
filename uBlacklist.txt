@@ -250,6 +250,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.watablogtravel.com/*
 *://*.web-camp.io/*
 *://*.web-director-lifehack.info/*
+*://*.web-engineer-wiki.com/*
 *://*.web-knowledge-info.com/*
 *://*.websae.net/*
 *://*.websites-manual.com/*
