@@ -191,6 +191,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.sakurasaku-labo.jp/*
 *://*.sakuratube.org/*
 *://*.savvycode.dev/*
+*://*.schoo.jp/*
 *://*.sejuku.net/*
 *://*.shelikes.jp/*
 *://*.shibamasa26.com/*
