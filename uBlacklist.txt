@@ -32,6 +32,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.careerhub.jp/*
 *://chot.design/*
 *://code.ooaks.co.jp/*
+*://*.code-schools.com/*
 *://*.codelabsjp.net/*
 *://*.codelearn.jp/*
 *://*.codeprep.jp/*
