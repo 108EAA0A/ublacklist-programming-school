@@ -97,6 +97,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://itc.tokyo/*
 *://*.ited.tech/*
 *://*.itpropartners.com/blog/*
+*://*.jito-site.com/*
 *://*.job-support.ne.jp/*
 *://*.kagoya.jp/howto/*
 *://*.kaigaihanno.com/*
