@@ -207,6 +207,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.skilled.yashio-corp.com/media/*
 *://*.skillhub.jp/*
 *://*.shimapuku.com/*
+*://*.shiro-changelife.com/*
 *://*.shogo-log.com/*
 *://*.softcampus.co.jp/*
 *://*.sojikun.com/*
