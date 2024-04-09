@@ -222,6 +222,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.syu-katu.net/*
 *://*.syuri7.com/*
 *://*.shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
+*://*.takayamato.com/*
 *://*.tamasoft.co.jp/column/programming/*
 *://*.tawasimusi.com/*
 *://*.tech-camp.in/*
