@@ -141,6 +141,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.mo-la.jp/*
 *://*.modis.jp/staffing/insight/*
 *://*.mokiblog.work/*
+*://*.moshashugyo.com/*
 *://ms-engineer.jp/*
 *://*.musclecoding.com/*
 *://*.myfrankblog.com/*
