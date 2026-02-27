@@ -43,6 +43,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.cuvno.com/*
 *://*.daeudaeu.com/*
 *://*.daily-trial.com/*
+*://*.delt.co.jp/article/*
 *://*.di-v.co.jp/*
 *://*.diveintocode.jp/*
 *://*.dividable.net/*
